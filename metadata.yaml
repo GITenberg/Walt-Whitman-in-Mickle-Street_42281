@@ -1,0 +1,37 @@
+_repo: Walt-Whitman-in-Mickle-Street_42281
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Bruno, Guido
+    birthdate: 1884
+    deathdate: 1942
+    gutenberg_agent_id: '41455'
+    url: http://www.gutenberg.org/2009/agents/41455
+covers:
+- cover_type: archival
+  image_path: 42281-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Keller, Elizabeth Leavitt
+    birthdate: 1839
+    gutenberg_agent_id: '41612'
+    url: http://www.gutenberg.org/2009/agents/41612
+description: Credited by some as the first truly American poet, Walt Whitman carved
+  out a literary niche all his own with groundbreaking volumes such as Leaves of Grass.
+  This richly detailed biography was written by a nurse, Elizabeth Keller, who cared
+  for Whitman during his final years.
+gutenberg_issued: '2013-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42281'
+  lccn: '21021151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, American -- 19th century -- Biography'
+- !lcc 'PS'
+- !lcsh 'Whitman, Walt, 1819-1892 -- Homes and haunts'
+title: Walt Whitman in Mickle Street
+url: http://www.gutenberg.org/ebooks/42281
